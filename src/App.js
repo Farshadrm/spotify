@@ -10,6 +10,7 @@ function App() {
             <MainContainer />
             <RightMenu />
             <div className="background"></div>
+	    <div>this is test</div>
         </div>
     );
 }
